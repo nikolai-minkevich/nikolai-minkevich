@@ -1,16 +1,15 @@
-### Hi there 👋
+### My study projects
+- Gpxies - create and store GPX tracks project
+in progress
 
-<!--
-**nikolai-minkevich/nikolai-minkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Covid19 Dashboard
+repo: https://github.com/nikolai-minkevich/covid-dashboard
+deploy: https://rolling-scopes-school.github.io/nikolai-minkevich-JS2020Q3/covid-dashboard/dist/index.html
 
-Here are some ideas to get you started:
+- RS Selectors
+repo: https://github.com/rolling-scopes-school/nikolai-minkevich-JS2020Q3/tree/rs-css
+deploy: https://rolling-scopes-school.github.io/nikolai-minkevich-JS2020Q3/rs-css/dist/index.html
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gem Puzzle
+repo: https://github.com/rolling-scopes-school/nikolai-minkevich-JS2020Q3/tree/gem-puzzle
+deploy: https://rolling-scopes-school.github.io/nikolai-minkevich-JS2020Q3/gem-puzzle/
