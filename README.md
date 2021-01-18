@@ -1,6 +1,6 @@
 ### My study projects
-#### Gpxies.ru
-create and store GPX tracks project ( in progress ) \
+#### Gpxies.ru (in progress)
+create and store GPX tracks project  \
 front-end: https://github.com/nikolai-minkevich/rsclone (private) \
 back-end: https://github.com/nikolai-minkevich/gpxies_backend (private) \
 deploy: https://gpxies.ru/ \
