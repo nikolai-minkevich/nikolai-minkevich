@@ -1,9 +1,8 @@
 ### My study projects
-#### Gpxies
-create and store GPX tracks project\
-in progress
-front-end: https://github.com/nikolai-minkevich/rsclone \
-back-end: https://github.com/nikolai-minkevich/gpxies_backend \
+#### Gpxies.ru
+create and store GPX tracks project ( in progress ) \
+front-end: https://github.com/nikolai-minkevich/rsclone (private) \
+back-end: https://github.com/nikolai-minkevich/gpxies_backend (private) \
 deploy: https://gpxies.ru/ \
 back-end api: https://api.gpxies.ru/
 #### Covid19 Dashboard
